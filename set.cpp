@@ -1,5 +1,4 @@
-#include <iostream>
+#include <stdio.h>
+#include "func.h"
 
-int main(){
-    std :: cout << "hello" ;
-}
+void ComeBack(int){};
