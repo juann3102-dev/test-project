@@ -2,7 +2,7 @@
 
 ### 실행 방법:
 1. git clone한 저장소로 이동
-2. ``make`` 혹은 ``mingw32-make`` 를 입력
+2. CLI에서 ``make`` 혹은 ``mingw32-make`` 를 입력
 3. 그러면 각 파일의 변경 사항이 'testprog.exe'라는 파일로 한번에 컴파일됨.
 4. 그거 실행하면 됨.
 
