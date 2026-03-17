@@ -2,7 +2,7 @@
 #include "func.h"
 
 int main() {
-    printf("Hello World!");
+    printf("Hello World!\n");
 
     wndks();
     tjsrb();
