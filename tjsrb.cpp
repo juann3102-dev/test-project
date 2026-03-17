@@ -1,4 +1,6 @@
 #include <stdio.h>
 #include "func.h"
 
-void tjsrb(){};
+void tjsrb(){
+    printf("test\n");
+};
